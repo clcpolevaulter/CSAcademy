@@ -30,6 +30,7 @@
         android:backgroundTint="#00BCD4"
         android:onClick="send"
         android:text="@string/button_send"
+        android:textColor="@color/black"
         app:layout_constraintBaseline_toBaselineOf="@+id/editText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
