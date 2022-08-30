@@ -7,5 +7,5 @@ Created from https://developer.android.com/training/basics/firstapp
 - PR Flow: https://guides.github.com/introduction/flow/
 
 
-I can... from terminal too...
+I can... from terminal too... and browser
 
